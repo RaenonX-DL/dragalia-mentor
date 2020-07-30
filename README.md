@@ -98,3 +98,10 @@
 Raid階段結束以後，如果角色養成素材不夠，可以去打寶龍。
 
 打通7F的寶龍素材可以養一隻角色到40環。
+
+## 註記
+
+我自己有開發腳本輔助練小號。大部分是Raid階段會用到，自己打團體戰的腳本。
+
+連結: [https://github.com/RaenonX/dragalia-lua-script-2](https://github.com/RaenonX/dragalia-lua-script-2)
+> 目前限 Galaxy S9+，需要安裝 & 購買 AnkuLua
